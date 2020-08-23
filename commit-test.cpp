@@ -3,5 +3,5 @@
 
 int main ()
 {
-  std::cout << "this is an attempt of a commit";
+  std::cout << "this is an attempt of a commit change";
 }
